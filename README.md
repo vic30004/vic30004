@@ -1,6 +1,6 @@
 # Hi, I'm Victor
 
-Senior Software Engineer at **Minted**. I design and build scalable backend systems, microservices, and performant frontends that directly impact revenue, reliability, and user experience. :contentReference[oaicite:1]{index=1}
+Senior Software Engineer at **Minted**. I design and build scalable backend systems, microservices, and performant frontends that directly impact revenue, reliability, and user experience.
 
 ---
 
