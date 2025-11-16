@@ -1,6 +1,6 @@
 # Hi, I'm Victor
 
-Senior Software Engineer at **Minted** and Co-Founder & CTO of **Nal**. I design and build scalable backend systems, microservices, and performant frontends that directly impact revenue, reliability, and user experience. :contentReference[oaicite:1]{index=1}
+Senior Software Engineer at **Minted**. I design and build scalable backend systems, microservices, and performant frontends that directly impact revenue, reliability, and user experience. :contentReference[oaicite:1]{index=1}
 
 ---
 
@@ -35,19 +35,19 @@ Senior Software Engineer at **Minted** and Co-Founder & CTO of **Nal**. I design
 ### 🔧 Selected work
 
 - **Minted – Cart & Checkout Replatform**  
-  Rebuilt cart and checkout flows, modernized payment processors, improving security, reliability, and business resilience during peak seasons. :contentReference[oaicite:2]{index=2}  
+  Rebuilt cart and checkout flows, modernized payment processors, improving security, reliability, and business resilience during peak seasons.
 
 - **Minted – Search Microservice**  
   Designed and implemented a dedicated search microservice, improving relevance and user experience across the site.
 
 - **Minted – Subscriptions & Categories**  
-  Migrated key features from a monolith to microservices, reducing category update latency from 30–60 minutes to instant. :contentReference[oaicite:3]{index=3}  
+  Migrated key features from a monolith to microservices, reducing category update latency from 30–60 minutes to instant.
 
 - **Nal – School Payment & Preorder Platform**  
-  Backend architecture, APIs, and CI/CD for a fintech platform that lets parents manage cafeteria spend and students preorder food. :contentReference[oaicite:4]{index=4}  
+  Backend architecture, APIs, and CI/CD for a fintech platform that lets parents manage cafeteria spend and students preorder food.
 
 - **Visit My Studio – Virtual Studio Tours**  
-  Full-stack React + Django platform for artists to showcase work and connect with audiences. :contentReference[oaicite:5]{index=5}  
+  Full-stack React + Django platform for artists to showcase work and connect with audiences.
 
 
 ### 📫 Contact
